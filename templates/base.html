@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<title>{% block title %}{% endblock %}</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+	
+	{% block head %}{% endblock %}
+	<link rel="shortcut icon" href="https://cdn.iconscout.com/icon/premium/png-256-thumb/online-scraper-2134195-1796558.png" type="image/png">
+</head>
+<body>
+	{% block body %}{% endblock %}
+</body>
+</html>
