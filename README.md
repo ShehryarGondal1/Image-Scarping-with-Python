@@ -114,7 +114,7 @@ Check my __app.py__ for better understanding of Image/webscarping through beauti
 ![image](Frontend_page.png)
 <br>
 
-![image](frondend_page2.png)
+![image](Frondend_page2.png)
 <br>
 ### AUTHOR
 <hr>
