@@ -109,6 +109,13 @@ db.<collection_name>.insert_one({ "key": "value" })
 Check my __app.py__ for better understanding of Image/webscarping through beautifulsoup library.
 <br>
 
+### UI/UX Design 
+
+![image](Frontend_page.png)
+<br>
+
+![image](frondend_page2.png)
+<br>
 ### AUTHOR
 <hr>
 <strong>Shehryar Gondal</strong>
